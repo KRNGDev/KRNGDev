@@ -30,6 +30,7 @@ Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo
 
 ## Contacta conmigo
 Siquieres mas informacion sobre mi puedes contactar por estos medios:
+
     - **LinkedIn:** Alberto Lopez Martinez(https://www.linkedin.com/in/alberto-lm151186/)
     - **Correo Electrónico:** albertolopma@gmail.com
 
