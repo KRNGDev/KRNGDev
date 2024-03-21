@@ -9,7 +9,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 
 ## Habilidades 🌱
 - Desarrollo de Aplicaciones Web: JavaScript, HTML, CSS
-- Conocimientos en Node.js,Tailwind
+- Conocimientos en Node.js y Tailwind
 - Trabajo en MVC
 - Programacion en C#
 - Experiencia en Unity
@@ -19,14 +19,12 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 ## Características personales
 Me caracterizo por ser una persona comprometida y proactiva, siempre en crecimiento continuo. Valoro la iniciativa y la dedicación en cualquier entorno de trabajo. Mi habilidad en comunicación y marketing complementa mis habilidades técnicas, brindándome una perspectiva única para abordar problemas y proyectos.
 
-## Objetivos
+## Objetivos 🚀
 Estoy en búsqueda de un entorno donde pueda desarrollarme plenamente en el sector de la programación. Busco un lugar que valore la iniciativa y la dedicación, donde pueda aprender y aportar en un entorno colaborativo.
 
 Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo contribuir y crecer en el mundo del desarrollo. Espero poder ser parte de un equipo apasionado que comparta mi entusiasmo por la tecnología y la innovación.
 
 ¡Gracias por tomarte el tiempo para conocerme! Estoy ansioso por lo que el futuro pueda deparar y espero poder contribuir de manera significativa a cualquier proyecto en el que esté involucrado.
-
-¡Hagamos cosas increíbles juntos! 🚀
 
 ---
 
