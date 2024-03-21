@@ -29,4 +29,4 @@ Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo
 ¡Hagamos cosas increíbles juntos! 🚀
 
 ---
-*Este README fue creado por Alberto, un entusiasta del desarrollo de software en busca de nuevas oportunidades y desafíos. Si estás interesado en colaborar o conocer más sobre mí, ¡no dudes en contactarme!*
+
