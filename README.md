@@ -7,7 +7,7 @@ Mi enfoque principal se centra en JavaScript, Java, HTML y CSS. Además, he expl
 
 Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyería y la impresión 3D, lo cual ha añadido una capa creativa y técnica a mis habilidades. Ahora, estoy ansioso por canalizar esa pasión en un nuevo desafío como programador.
 
-## Habilidades :plántula:
+## Habilidades 🌱
 - Desarrollo de Aplicaciones Web: JavaScript, HTML, CSS
 - Conocimientos en Node.js,Tailwind
 - Trabajo en MVC
