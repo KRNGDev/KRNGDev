@@ -28,7 +28,7 @@ Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo
 
 ## Proyectos Destacados
 
-- **[Pagina](krngdev.github.io/)**: Pagina donde incluyo trabajos y juegos que he ido programando.
+- **[Pagina](https://krngdev.github.io/index)**: Pagina donde incluyo trabajos y juegos que he ido programando.
 - **[Juego La serpiente](https://github.com/KRNGDev/krngdev.github.io/tree/main/Serpiente)**: Juego del Snake hecho con javaScript , HTML y CSS, para su manejo en web.
 - **[Juego The Shoter](https://github.com/KRNGDev/krngdev.github.io/tree/main/The%20Shooter)**: Juego Hecho en Unity.
 - **[WachtFace Samsung](https://github.com/KRNGDev/WachtFace)**: WhachtFace para SO TIZEN, esfera de reloj interactiva que acumula pasos y va haciendo que un pequeño guerrero vaya avanzando en el mapa.
