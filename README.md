@@ -1,9 +1,9 @@
-# Bienvenido al README de Alberto
+# Bienvenido 
 
-¡Hola! Mi nombre es Alberto y me gradué en Desarrollo de Aplicaciones Web con un título de grado superior. Estoy emocionado de compartir un poco sobre mí y mis habilidades contigo.
+¡Hola! Mi nombre es Alberto y me gradué en Desarrollo de Aplicaciones Web con un título de FP de grado superior. Estoy emocionado de compartir un poco sobre mí y mis habilidades contigo.
 
 ## Sobre mí
-Mi enfoque principal se centra en JavaScript, Java, HTML y CSS. Además, he explorado el mundo del desarrollo con Unity, lo que me ha permitido tener una perspectiva amplia y diversa en el ámbito del desarrollo de software.
+Mi enfoque principal se centra en JavaScript, Java, HTML y CSS. Además, he explorado el mundo del desarrollo con Unity y la programacion con C#, lo que me ha permitido tener una perspectiva amplia y diversa en el ámbito del desarrollo de software.
 
 Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyería y la impresión 3D, lo cual ha añadido una capa creativa y técnica a mis habilidades. Ahora, estoy ansioso por canalizar esa pasión en un nuevo desafío como programador.
 
