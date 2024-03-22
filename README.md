@@ -13,12 +13,12 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 <div style="display: flex;">
     <div style="flex: 1;">
         <!-- Texto -->
-        - Desarrollo de Aplicaciones Web: ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) y ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-- Conocimientos en  ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss) y ![Node.js](https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green)
+        - Desarrollo de Aplicaciones Web: <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">, <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> y <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+- Conocimientos en  <img src="https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss"> y <img src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green">
 - Trabajo en MVC
-- Programacion en ![C#](https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23)
-- Experiencia en ![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white) 
-- Modelado 3D de joyería ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros)
+- Programacion en <img src="https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23">
+- Experiencia en <img src="https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white">
+- Modelado 3D de joyería <img src="https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros">
 - Impresión 3D.
     </div>
     <div style="flex: 1;">
