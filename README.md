@@ -24,7 +24,7 @@ Me encuentro en constante evolución en mi camino como desarrollador. Mi pasión
 
 Soy un firme creyente en el aprendizaje autodidacta. Mi motivación me impulsa a explorar nuevas tecnologías y conceptos por mi cuenta. Actualmente, me encuentro inmerso en el perfeccionamiento de mis habilidades en ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=Tailwindcss) y ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js&labelColor=black&color=green), dos tecnologías que considero fundamentales en el panorama actual del desarrollo web.
 
-Además, estoy dedicando tiempo y esfuerzo al estudio de la IDE Android Studio y el lenguaje ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) para la creación de aplicaciones móviles. Reconozco el crecimiento exponencial del mercado de aplicaciones móviles y estoy comprometido a dominar las herramientas y lenguajes necesarios para contribuir de manera significativa en este ámbito.
+Además, estoy dedicando tiempo y esfuerzo al estudio de la IDE ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) y el lenguaje ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) para la creación de aplicaciones móviles. Reconozco el crecimiento exponencial del mercado de aplicaciones móviles y estoy comprometido a dominar las herramientas y lenguajes necesarios para contribuir de manera significativa en este ámbito.
 
 Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de enfrentar los desafíos más exigentes en el desarrollo de aplicaciones. Estoy emocionado por el proceso de aprendizaje y estoy ansioso por aplicar mis conocimientos y habilidades en proyectos innovadores.
 
@@ -51,16 +51,18 @@ Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
 ---
 
-[![Desarrollo Web](https://img.shields.io/badge/-Desarrollo%20Web-blue)](https://example.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://example.com)
-[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://example.com)
-[![HTML](https://img.shields.io/badge/-HTML-orange)](https://example.com)
-[![CSS](https://img.shields.io/badge/-CSS-blueviolet)](https://example.com)
-[![Unity](https://img.shields.io/badge/-Unity-black)](https://example.com)
-[![Modelado 3D](https://img.shields.io/badge/-Modelado%203D-ff69b4)](https://example.com)
-[![Impresión 3D](https://img.shields.io/badge/-Impresión%203D-lightgrey)](https://example.com)
-[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://example.com)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1e90ff)](https://example.com)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)](https://example.com)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange)](https://example.com)
+[![Desarrollo Web](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+[![Desarrollo Web](https://img.shields.io/badge/-Desarrollo%20Web-blue)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]
+[![Node.js](https://img.shields.io/badge/-Node.js-green)]
+[![HTML](https://img.shields.io/badge/-HTML-orange)]
+[![CSS](https://img.shields.io/badge/-CSS-blueviolet)]
+[![Unity](https://img.shields.io/badge/-Unity-black)]
+[![Modelado 3D](https://img.shields.io/badge/-Modelado%203D-ff69b4)]
+[![Impresión 3D](https://img.shields.io/badge/-Impresión%203D-lightgrey)]
+[![Node.js](https://img.shields.io/badge/-Node.js-green)]
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1e90ff)]
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)]
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange)]
+
 
