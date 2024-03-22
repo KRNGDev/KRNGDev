@@ -12,7 +12,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 - Conocimientos en  ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss) y ![Node.js](https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green)
 - Trabajo en MVC
 - Programacion en ![C#](https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23)
-- Experiencia en ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
+- Experiencia en ![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white) 
 - Modelado 3D de joyería ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros)
 - Impresión 3D
 
