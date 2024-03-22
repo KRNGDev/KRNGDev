@@ -13,20 +13,33 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 <div style="display: flex;">
     <div style="flex: 1;">
         <!-- Texto -->
-        - Desarrollo de Aplicaciones Web: <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">, <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> y <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-- Conocimientos en  <img src="https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss"> y <img src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green">
-- Trabajo en MVC
-- Programacion en <img src="https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23">
-- Experiencia en <img src="https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white">
-- Modelado 3D de joyería <img src="https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros">
-- Impresión 3D.
+        <ul>
+    <li>Desarrollo de Aplicaciones Web:
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    </li>
+    <li>Conocimientos en:
+        <img src="https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss">
+        <img src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green">
+    </li>
+    <li>Trabajo en MVC</li>
+    <li>Programacion en:
+        <img src="https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23">
+    </li>
+    <li>Experiencia en:
+        <img src="https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white">
+    </li>
+    <li>Modelado 3D de joyería:
+        <img src="https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros">
+    </li>
+    <li>Impresión 3D.</li>
+</ul>
     </div>
     <div style="flex: 1;">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRNGDev"> 
     </div>
 </div>
-
-
 
 ## Características personales 🙋
 
