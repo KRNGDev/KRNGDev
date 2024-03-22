@@ -66,7 +66,7 @@ Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de 
 - 🐍 [![Juego Snake](https://img.shields.io/badge/Juego%20Snake-green?style=flat-square)](https://github.com/KRNGDev/krngdev.github.io/tree/main/Serpiente) : Juego del Snake hecho con ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) , ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) y ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white), para su manejo en web.
 - 🔫 [![The Shooter](https://img.shields.io/badge/The%20Shooter-green?style=flat-square&color=C51E3A)](https://github.com/KRNGDev/krngdev.github.io/tree/main/The%20Shooter) : Juego Hecho en ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity).
 - 🕕 [![WachtFace Samsung](https://img.shields.io/badge/WhachtFace%20Samsung-green?style=flat-square&color=0000FF)](https://github.com/KRNGDev/WachtFace) : WhachtFace para SO TIZEN, esfera de reloj interactiva que acumula pasos y va haciendo que un pequeño guerrero vaya avanzando en el mapa.
-- 📋 [![TrabajoTFG](https://img.shields.io/badge/Trabajo%PFG-green?style=flat-square&color=0000FF)](https://github.com/KRNGDev/PFG_DAW) : WhachtFace para SO TIZEN, esfera de reloj interactiva que acumula pasos y va haciendo que un pequeño guerrero vaya avanzando en el mapa.
+- 📋 [![TrabajoTFG](https://img.shields.io/badge/TrabajoPFG-green?style=flat-square&color=0000FF)](https://github.com/KRNGDev/PFG_DAW) : WhachtFace para SO TIZEN, esfera de reloj interactiva que acumula pasos y va haciendo que un pequeño guerrero vaya avanzando en el mapa.
 
 ---
 
