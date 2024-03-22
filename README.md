@@ -51,18 +51,18 @@ Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
 ---
 
-[![Desarrollo Web](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
-[![Desarrollo Web](https://img.shields.io/badge/-Desarrollo%20Web-blue)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]
-[![Node.js](https://img.shields.io/badge/-Node.js-green)]
-[![HTML](https://img.shields.io/badge/-HTML-orange)]
-[![CSS](https://img.shields.io/badge/-CSS-blueviolet)]
-[![Unity](https://img.shields.io/badge/-Unity-black)]
-[![Modelado 3D](https://img.shields.io/badge/-Modelado%203D-ff69b4)]
-[![Impresión 3D](https://img.shields.io/badge/-Impresión%203D-lightgrey)]
-[![Node.js](https://img.shields.io/badge/-Node.js-green)]
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1e90ff)]
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)]
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange)]
+![Desarrollo Web](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Desarrollo Web](https://img.shields.io/badge/-Desarrollo%20Web-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blueviolet)
+![Unity](https://img.shields.io/badge/-Unity-black)
+![Modelado 3D](https://img.shields.io/badge/-Modelado%203D-ff69b4)
+![Impresión 3D](https://img.shields.io/badge/-Impresión%203D-lightgrey)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1e90ff)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)
+![Kotlin](https://img.shields.io/badge/-Kotlin-orange)
 
 
