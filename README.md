@@ -22,9 +22,9 @@ Me caracterizo por ser una persona comprometida y proactiva, siempre en crecimie
 ## Objetivos 🚀
 Me encuentro en constante evolución en mi camino como desarrollador. Mi pasión por la programación se refleja en mi deseo constante de aprender y crecer. Estoy decidido a especializarme en el desarrollo de aplicaciones, un campo que considero emocionante y lleno de posibilidades innovadoras.
 
-Soy un firme creyente en el aprendizaje autodidacta. Mi motivación me impulsa a explorar nuevas tecnologías y conceptos por mi cuenta. Actualmente, me encuentro inmerso en el perfeccionamiento de mis habilidades en Node.js y Tailwind CSS, dos tecnologías que considero fundamentales en el panorama actual del desarrollo web.
+Soy un firme creyente en el aprendizaje autodidacta. Mi motivación me impulsa a explorar nuevas tecnologías y conceptos por mi cuenta. Actualmente, me encuentro inmerso en el perfeccionamiento de mis habilidades en ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=Tailwindcss) y ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js&labelColor=black&color=green), dos tecnologías que considero fundamentales en el panorama actual del desarrollo web.
 
-Además, estoy dedicando tiempo y esfuerzo al estudio de la IDE Android Studio y el lenguaje Kotlin para la creación de aplicaciones móviles. Reconozco el crecimiento exponencial del mercado de aplicaciones móviles y estoy comprometido a dominar las herramientas y lenguajes necesarios para contribuir de manera significativa en este ámbito.
+Además, estoy dedicando tiempo y esfuerzo al estudio de la IDE Android Studio y el lenguaje ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) para la creación de aplicaciones móviles. Reconozco el crecimiento exponencial del mercado de aplicaciones móviles y estoy comprometido a dominar las herramientas y lenguajes necesarios para contribuir de manera significativa en este ámbito.
 
 Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de enfrentar los desafíos más exigentes en el desarrollo de aplicaciones. Estoy emocionado por el proceso de aprendizaje y estoy ansioso por aplicar mis conocimientos y habilidades en proyectos innovadores.
 
