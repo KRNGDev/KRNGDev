@@ -5,7 +5,7 @@
 ## Sobre mí 🏦
 Mi enfoque principal se centra en ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E), ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) y ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white). Además, he explorado el mundo del desarrollo con ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity) y la programacion con ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23), lo que me ha permitido tener una perspectiva amplia y diversa en el ámbito del desarrollo de software.
 
-Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyería con el plugin MatrixGold de ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=plasflat-squaretic&logo=Rhinoceros)  y la impresión 3D, lo cual ha añadido una capa creativa y técnica a mis habilidades. Ahora, estoy ansioso por canalizar esa pasión en un nuevo desafío como programador.
+Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyería con el plugin MatrixGold de ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=flat-square&logo=Rhinoceros)  y la impresión 3D, lo cual ha añadido una capa creativa y técnica a mis habilidades. Ahora, estoy ansioso por canalizar esa pasión en un nuevo desafío como programador.
 
 ## Habilidades 🌱
 - Desarrollo de Aplicaciones Web: ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) y ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -28,9 +28,9 @@ Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo
 
 ## Proyectos Destacados 🎮
 
-- [![Pagina](https://img.shields.io/badge/Pagina-blue?style=flat-square&color=007BA7)](https://krngdev.github.io/index) : Pagina donde incluyo trabajos y juegos que he ido programando.
+- 📃 [![Pagina](https://img.shields.io/badge/Pagina-blue?style=flat-square&color=007BA7)](https://krngdev.github.io/index) : Pagina donde incluyo trabajos y juegos que he ido programando.
 - 🐍 [![Juego Snake](https://img.shields.io/badge/Juego%20Snake-green?style=flat-square)](https://github.com/KRNGDev/krngdev.github.io/tree/main/Serpiente) : Juego del Snake hecho con ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) , ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) y ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white), para su manejo en web.
-- 🔫[![The Shooter](https://img.shields.io/badge/The%20Shooter-green?style=flat-square&color=C51E3A)](https://github.com/KRNGDev/krngdev.github.io/tree/main/The%20Shooter) : Juego Hecho en ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity).
+- 🔫 [![The Shooter](https://img.shields.io/badge/The%20Shooter-green?style=flat-square&color=C51E3A)](https://github.com/KRNGDev/krngdev.github.io/tree/main/The%20Shooter) : Juego Hecho en ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity).
 - 🕕 [![WachtFace Samsung](https://img.shields.io/badge/WhachtFace%20Samsung-green?style=flat-square&color=0000FF)](https://github.com/KRNGDev/WachtFace) : WhachtFace para SO TIZEN, esfera de reloj interactiva que acumula pasos y va haciendo que un pequeño guerrero vaya avanzando en el mapa.
 
 ---
@@ -38,9 +38,7 @@ Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo
 ## Contacta conmigo 📧
 Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
-
-![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)[![Email](https://img.shields.io/badge/albertolopma%40gmail.com-blue?style=flat-square)](mailto:albertolopma@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albertolopma@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
 
 
 🚀 Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios. ¡Gracias!
