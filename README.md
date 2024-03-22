@@ -16,6 +16,8 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 - Modelado 3D de joyería ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros)
 - Impresión 3D
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRNGDev)](https://github.com/KRNGDev/github-readme-stats)
+
 ## Características personales 🙋
 Me caracterizo por ser una persona comprometida y proactiva, siempre en crecimiento continuo. Valoro la iniciativa y la dedicación en cualquier entorno de trabajo. Mi habilidad en comunicación y marketing complementa mis habilidades técnicas, brindándome una perspectiva única para abordar problemas y proyectos.
 
