@@ -22,7 +22,7 @@ Me caracterizo por ser una persona comprometida y proactiva, siempre en crecimie
 ## Objetivos 🚀
 Me encuentro en constante evolución en mi camino como desarrollador. Mi pasión por la programación se refleja en mi deseo constante de aprender y crecer. Estoy decidido a especializarme en el desarrollo de aplicaciones, un campo que considero emocionante y lleno de posibilidades innovadoras.
 
-Soy un firme creyente en el aprendizaje autodidacta. Mi motivación me impulsa a explorar nuevas tecnologías y conceptos por mi cuenta. Actualmente, me encuentro inmerso en el perfeccionamiento de mis habilidades en ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=Tailwindcss) y ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js&labelColor=black&color=black), dos tecnologías que considero fundamentales en el panorama actual del desarrollo web.
+Soy un firme creyente en el aprendizaje autodidacta. Mi motivación me impulsa a explorar nuevas tecnologías y conceptos por mi cuenta. Actualmente, me encuentro inmerso en el perfeccionamiento de mis habilidades en ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=Tailwindcss) y ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js&labelColor=black&color=green), dos tecnologías que considero fundamentales en el panorama actual del desarrollo web.
 
 Además, estoy dedicando tiempo y esfuerzo al estudio de la IDE Android Studio y el lenguaje ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white) para la creación de aplicaciones móviles. Reconozco el crecimiento exponencial del mercado de aplicaciones móviles y estoy comprometido a dominar las herramientas y lenguajes necesarios para contribuir de manera significativa en este ámbito.
 
@@ -47,6 +47,9 @@ Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albertolopma@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
 
+🚀 Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios. ¡Gracias!
+
+---
 
 [![Desarrollo Web](https://img.shields.io/badge/-Desarrollo%20Web-blue)](https://example.com)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://example.com)
@@ -61,4 +64,3 @@ Siquieres mas informacion sobre mi puedes contactar por estos medios:
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)](https://example.com)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-orange)](https://example.com)
 
-🚀 Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios. ¡Gracias!
