@@ -40,7 +40,7 @@ Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
 
-[![Email](https://img.shields.io/badge/Email%3A-albertolopma%40gmail.com-blue?style=flat-square)](mailto:albertolopma@gmail.com)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[![Email](https://img.shields.io/badge/albertolopma%40gmail.com-blue?style=flat-square)](mailto:albertolopma@gmail.com)
 
 
 🚀 Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios. ¡Gracias!
