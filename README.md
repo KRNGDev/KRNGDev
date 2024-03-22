@@ -40,6 +40,11 @@ Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de 
 - 🔫 [![The Shooter](https://img.shields.io/badge/The%20Shooter-green?style=flat-square&color=C51E3A)](https://github.com/KRNGDev/krngdev.github.io/tree/main/The%20Shooter) : Juego Hecho en ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity).
 - 🕕 [![WachtFace Samsung](https://img.shields.io/badge/WhachtFace%20Samsung-green?style=flat-square&color=0000FF)](https://github.com/KRNGDev/WachtFace) : WhachtFace para SO TIZEN, esfera de reloj interactiva que acumula pasos y va haciendo que un pequeño guerrero vaya avanzando en el mapa.
 
+--
+##  GitHub Stats 📈
+
+![Alberto Stats](https://github-readme-stats.vercel.app/api?username=KRNGDev&show_icons=true&theme=radical&include_all_commits=true)
+
 ---
 
 ## Contacta conmigo 📧
