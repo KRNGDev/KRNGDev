@@ -10,7 +10,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 
 ## Habilidades 🌱
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <ul>
             <li>Desarrollo de Aplicaciones Web:
