@@ -22,7 +22,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 - Impresión 3D.
     </div>
     <div style="flex: 1;">
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRNGDev)
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRNGDev"> 
     </div>
 </div>
 
