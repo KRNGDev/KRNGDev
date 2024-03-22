@@ -14,7 +14,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 
 - Trabajo en MVC
 - Programacion en ![C#](https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23)
-- Experiencia en ![Unity](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity)🎮
+- Experiencia en ![Unity](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity) 🎮
 - Modelado 3D de joyería ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=plastic&logo=Rhinoceros)
 - Impresión 3D
 
@@ -37,11 +37,11 @@ Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo
 
 ---
 
-## Contacta conmigo 💫
+## Contacta conmigo 📧
 Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
-- 📧![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico%3A-albertolopma%40gmail.com-blue?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
+[![Email](https://img.shields.io/badge/Correo%20Electr%C3%B3nico%3A-albertolopma%40gmail.com-blue?style=flat-square)](mailto:albertolopma@gmail.com)
 
 
 🚀 Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios. ¡Gracias!
