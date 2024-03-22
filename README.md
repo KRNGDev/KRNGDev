@@ -20,9 +20,16 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
 Me caracterizo por ser una persona comprometida y proactiva, siempre en crecimiento continuo. Valoro la iniciativa y la dedicación en cualquier entorno de trabajo. Mi habilidad en comunicación y marketing complementa mis habilidades técnicas, brindándome una perspectiva única para abordar problemas y proyectos.
 
 ## Objetivos 🚀
-Estoy en búsqueda de un entorno donde pueda desarrollarme plenamente en el sector de la programación. Busco un lugar que valore la iniciativa y la dedicación, donde pueda aprender y aportar en un entorno colaborativo.
+Me encuentro en constante evolución en mi camino como desarrollador. Mi pasión por la programación se refleja en mi deseo constante de aprender y crecer. Estoy decidido a especializarme en el desarrollo de aplicaciones, un campo que considero emocionante y lleno de posibilidades innovadoras.
 
-Estoy emocionado por la oportunidad de conectarme contigo y explorar cómo puedo contribuir y crecer en el mundo del desarrollo. Espero poder ser parte de un equipo apasionado que comparta mi entusiasmo por la tecnología y la innovación.
+Soy un firme creyente en el aprendizaje autodidacta. Mi motivación me impulsa a explorar nuevas tecnologías y conceptos por mi cuenta. Actualmente, me encuentro inmerso en el perfeccionamiento de mis habilidades en Node.js y Tailwind CSS, dos tecnologías que considero fundamentales en el panorama actual del desarrollo web.
+
+Además, estoy dedicando tiempo y esfuerzo al estudio de la IDE Android Studio y el lenguaje Kotlin para la creación de aplicaciones móviles. Reconozco el crecimiento exponencial del mercado de aplicaciones móviles y estoy comprometido a dominar las herramientas y lenguajes necesarios para contribuir de manera significativa en este ámbito.
+
+Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de enfrentar los desafíos más exigentes en el desarrollo de aplicaciones. Estoy emocionado por el proceso de aprendizaje y estoy ansioso por aplicar mis conocimientos y habilidades en proyectos innovadores.
+
+¡Estoy listo para enfrentar nuevos desafíos y contribuir al mundo del desarrollo de aplicaciones con entusiasmo y determinación!
+
 
 ¡Gracias por tomarte el tiempo para conocerme! Estoy ansioso por lo que el futuro pueda deparar y espero poder contribuir de manera significativa a cualquier proyecto en el que esté involucrado.
 
@@ -40,5 +47,18 @@ Siquieres mas informacion sobre mi puedes contactar por estos medios:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albertolopma@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
 
+
+[![Desarrollo Web](https://img.shields.io/badge/-Desarrollo%20Web-blue)](https://example.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://example.com)
+[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://example.com)
+[![HTML](https://img.shields.io/badge/-HTML-orange)](https://example.com)
+[![CSS](https://img.shields.io/badge/-CSS-blueviolet)](https://example.com)
+[![Unity](https://img.shields.io/badge/-Unity-black)](https://example.com)
+[![Modelado 3D](https://img.shields.io/badge/-Modelado%203D-ff69b4)](https://example.com)
+[![Impresión 3D](https://img.shields.io/badge/-Impresión%203D-lightgrey)](https://example.com)
+[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://example.com)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1e90ff)](https://example.com)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)](https://example.com)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange)](https://example.com)
 
 🚀 Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios. ¡Gracias!
