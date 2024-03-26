@@ -79,7 +79,7 @@ Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de 
 
 ## Contacta conmigo 📧
 
-Siquieres mas informacion sobre mi puedes contactar por estos medios:
+Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme. Puedes encontrarme a través de mi correo electrónico o en mis redes sociales.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albertolopma@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lm151186/)
 
