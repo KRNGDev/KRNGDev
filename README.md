@@ -69,11 +69,7 @@ Mi objetivo es convertirme en un desarrollador versátil y competente, capaz de 
 
 ---
 
-## GitHub Stats 📈
 
-![Alberto Stats](https://github-readme-stats.vercel.app/api?username=KRNGDev&show_icons=true&theme=radical&include_all_commits=true)
-
----
 
 ## Contacta conmigo 📧
 
