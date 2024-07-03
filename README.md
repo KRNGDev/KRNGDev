@@ -36,9 +36,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
         <li>Impresión 3D.</li>
       </ul>
     </td>
-    <td style="width: 50%; vertical-align: top; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRNGDev"> 
-    </td>
+    
   </tr>
 </table>
 
