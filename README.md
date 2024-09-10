@@ -19,6 +19,11 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
         </li>
+         <li>Desarrollo en Back-End:
+          <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk">
+          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+        </li>
         <li>Conocimientos en:
           <img src="https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss">
           <img src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green">
