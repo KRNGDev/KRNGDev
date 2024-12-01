@@ -25,7 +25,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
         </li>
         <li>Conocimientos en:
           <img src="https://img.shields.io/badge/Tailwind-blue?style=plastic&logo=Tailwindcss">
-          <img src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=Node.js&labelColor=black&color=green">
+          <img src="https://img.shields.io/badge/angular-black?style=plastic&logo=angular&labelColor=black&color=green">
         </li>
         <li>Trabajo en MVC</li>
         <li>Programacion en:
