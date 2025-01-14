@@ -15,9 +15,7 @@ Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyerí
     <td style="width: 50%; vertical-align: top;">
       <ul>
         <li>Desarrollo de Aplicaciones Web:
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
-          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/angular-red?style=plastic&logo=angular&labelColor=red&color=white">
         </li>
          <li>Desarrollo en Back-End:
           <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk">
