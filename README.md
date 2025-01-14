@@ -4,7 +4,7 @@
 
 ## Sobre mí 🏦
 
-Mi enfoque principal se centra en ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white), ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E),  y ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white). Además, he explorado el mundo del desarrollo con ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity) y la programacion con ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23), lo que me ha permitido tener una perspectiva amplia y diversa en el ámbito del desarrollo de software.
+Mi enfoque principal se centra en ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk), y <img src="https://img.shields.io/badge/angular-red?style=plastic&logo=angular&labelColor=red&color=white">. Además, he explorado el mundo del desarrollo con ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity) y la programacion con ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23), lo que me ha permitido tener una perspectiva amplia y diversa en el ámbito del desarrollo de software.
 
 Mi travesía profesional me ha llevado por el terreno del modelado 3D de joyería con el plugin MatrixGold de ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-gray?style=flat-square&logo=Rhinoceros) y la impresión 3D, lo cual ha añadido una capa creativa y técnica a mis habilidades. Ahora, estoy ansioso por canalizar esa pasión en un nuevo desafío como programador.
 
