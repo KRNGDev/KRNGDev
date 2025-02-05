@@ -25,7 +25,7 @@ Creo en el poder del trabajo en equipo y en el impacto positivo de un enfoque co
   ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)  
   ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity) 
   ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
- // <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KRNGDev&show_icons=true&locale=en&layout=compact" alt="KRNGDev" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KRNGDev&show_icons=true&locale=en&layout=compact" alt="KRNGDev" /> -->
 
 - **Bases de Datos:**  
   ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white) 
